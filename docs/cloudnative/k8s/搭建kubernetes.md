@@ -365,9 +365,9 @@ kubeadm join 10.0.0.3:6443 --token abcdef.0123456789abcdef \
 此外，kubeadm 还会提示我们第一次使用 Kubernetes 集群所需要的配置命令：
 
 ```sh
-$mkdir -p $HOME/.kube
-$sudo cp -i /etc/kubernetes/admin.conf $HOME/.kube/config
-$sudo chown $(id -u):$(id -g) $HOME/.kube/config
+$ mkdir -p $HOME/.kube
+$ sudo cp -i /etc/kubernetes/admin.conf $HOME/.kube/config
+$ sudo chown $(id -u):$(id -g) $HOME/.kube/config
 ```
 
 执行上面这些配置命令的原因是，K8s 集群默认需要加密方式访问，这几条命令是将刚刚部署生成的 Kubernetes 集群的安全配置文件 `admin.conf` ，复制保存到当前用户的 `.kube` 目录里，这样 kubectl 默认会使用这个目录下的授权信息访问 K8s 集群，这样当前用户就可以执行 kubectl 命令：
