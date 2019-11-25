@@ -3,17 +3,17 @@
 <center>
      <div>
          <span>
-             <img src="../../../.vuepress/public/img/作者.svg" width="20px">
+             <img src="../../.vuepress/public/img/作者.svg" width="20px">
              ：yijiu &emsp;&emsp;
          </span>
         &emsp;
          <span>
-             <img src="../../../.vuepress/public/img/时间.svg" width="20px">
+             <img src="../../.vuepress/public/img/时间.svg" width="20px">
              ：2019.11.18 &emsp;&emsp;
          </span>
          &emsp;
          <span>
-             <img src="../../../.vuepress/public/img/标签.svg" width="20px">
+             <img src="../../.vuepress/public/img/标签.svg" width="20px">
              ：k8s &emsp;&emsp;
          </span>
      </div>
