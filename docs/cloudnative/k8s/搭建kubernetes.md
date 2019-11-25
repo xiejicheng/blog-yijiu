@@ -540,7 +540,7 @@ k8s-node1    Ready    <none>   2m2s   v1.16.3
 
 - [https://kubernetes.io](https://kubernetes.io/)
 
-- https://github.com/kubernetes/dashboard
+- [Dashboard](https://github.com/kubernetes/dashboard)
 - [跟着官方文档从零搭建K8S](https://blog.piaoruiqing.com/2019/09/17/kubernetes-1-installation/#Kubernetes) （大部分步骤参考此文章）
 
 - [极客时间 - 深入剖析Kubernetes](https://time.geekbang.org/column/intro/100015201)
