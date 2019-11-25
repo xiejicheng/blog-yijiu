@@ -1,0 +1,9 @@
+#app .navbar .home-link span:before{
+    display: inline-block;
+    content: '';
+    width: 2rem;
+    height: 2rem;
+    background: url('../img/kubernetes.png') no-repeat;
+    background-size: 86% 86%;
+    vertical-align: middle;
+}
