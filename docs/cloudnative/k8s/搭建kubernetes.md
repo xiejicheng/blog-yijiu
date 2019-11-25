@@ -491,7 +491,7 @@ $ scp root@{master节点的ip}:/root/.kube/kubecfg.p12
 
 ![Dashboard-login](https://yijiu-blog.oss-cn-hongkong.aliyuncs.com/images/cloudnative/k8s/setup/Dashboard-login.png?x-oss-process=style/blog-image)
 
-选择 **Token** 方式登录，执行`kubectl -n kube-system describe secret $(kubectl -n kube-system get secret | grep admin-user | awk '{print $1}')` , 获取 **Token**。
+选择 **Token** 方式登录，执行`kubectl -n kube-system describe secret $(kubectl -n kube-system get secret | grep admin-user | awk '{print $1}')` , 获取 **Token** 。
 
 复制得到的 token到页面里输入，点击登录即可，效果如下：
 
