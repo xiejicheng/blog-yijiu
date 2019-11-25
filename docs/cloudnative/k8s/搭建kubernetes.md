@@ -1,5 +1,26 @@
 ## 第一次搭建 Kubernetes
 
+<center>
+     <div>
+         <span>
+             <img src="../../../.vuepress/public/img/作者.svg" width="20px">
+             ：yijiu &emsp;&emsp;
+         </span>
+        &emsp;
+         <span>
+             <img src="../../../.vuepress/public/img/时间.svg" width="20px">
+             ：2019.11.18 &emsp;&emsp;
+         </span>
+         &emsp;
+         <span>
+             <img src="../../../.vuepress/public/img/标签.svg" width="20px">
+             ：k8s &emsp;&emsp;
+         </span>
+     </div>
+ </center>
+
+---
+
 ### 前言
 
 初次尝试 Kubernetes 的安装部署，设备是两台云服务器，使用的工具是 **kubeadm** ，使用它部署一个完整的 Kubernetes 集群。其中会提到很多注意事项。初次尝试，欢迎吐槽。
