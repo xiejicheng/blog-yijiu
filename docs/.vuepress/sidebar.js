@@ -10,7 +10,7 @@ module.exports = {
 
     // cloudnative
     //'/cloudnative/docker/': require('../cloudnative/docker/sidebar'),
-    //'/cloudnative/k8s/': require('../cloudnative/k8s/sidebar'),
+    '/cloudnative/k8s/': require('../cloudnative/k8s/sidebar'),
     '/cloudnative/devops/': require('../cloudnative/devops/sidebar'),
     
     // recommend
