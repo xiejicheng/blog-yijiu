@@ -18,4 +18,7 @@ module.exports = {
 
     // booknotes
     '/booknotes/itcs/': require('../booknotes/itcs/sidebar'),
+
+    // notes
+    '/notes/network/': require('../notes/network/sidebar'),
 }
