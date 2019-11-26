@@ -21,4 +21,5 @@ module.exports = {
 
     // notes
     '/notes/network/': require('../notes/network/sidebar'),
+    '/notes/golang/': require('../notes/golang/sidebar'),
 }
