@@ -48,7 +48,7 @@
 
 > 主流的存储方式：文件存储、对象存储、块存储
 
-**文件存储：**相当于一个大的文件夹，典型的是 FTP/NFS 服务器，以文件作为传输协议。
+**文件存储：** 相当于一个大的文件夹，典型的是 FTP/NFS 服务器，以文件作为传输协议。
 
 - 本地存储：`Ext3` 、`Ext4`  、`NTFS` 
 - 网络文件(NAS)存储：`NFS`  、`CIFS` 
@@ -56,7 +56,7 @@
 - 优点：便于扩展和共享
 - 缺点：读写速度慢
 
-**块存储：**物理级别里最小读写单位是扇区。块存储可以认为是裸盘，最多包一层逻辑卷（LVM）
+**块存储：** 物理级别里最小读写单位是扇区。块存储可以认为是裸盘，最多包一层逻辑卷（LVM）
 
 - 块存储：DAS、FC-SAN、IP-SAN
 - 特征：不能被操作系统直接读写，需要格式化为指定的文件系统才可以访问。
@@ -91,7 +91,7 @@
 
 #### 各组件逻辑关系图
 
-![openstack4](C:\Users\10107\Desktop\openstack4.png)
+![openstack4](https://yijiu-blog.oss-cn-hongkong.aliyuncs.com/images/cloudnative/othercn/openstack4.png?x-oss-process=style/blog-image)
 
 ### 虚拟机启动过程
 
