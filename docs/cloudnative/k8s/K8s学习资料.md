@@ -40,4 +40,8 @@
 - [进击的云计算 - 知乎专栏](https://zhuanlan.zhihu.com/c_148580541)
 
 - [刘超的通俗云计算](https://blog.csdn.net/popsuper1982)
-- 
+
+- [Kubernetes 网络疑难杂症排查分享 - roc](https://mp.weixin.qq.com/s/2dvahn8twJJKlCqigvG7mA) 
+
+- [Kubernetes 疑难杂症排查分享: 诡异的 No route to host - roc](https://mp.weixin.qq.com/s/sN4ztCVJT-4HGRfkApr65w)
+
