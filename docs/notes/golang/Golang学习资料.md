@@ -82,11 +82,19 @@
 - ⭐[Go框架解析](http://tigerb.cn/2019/07/06/go-gin/)
 
 - [Gin框架 - 项目目录](https://mp.weixin.qq.com/s/R1hLZFEmH_FVoGH3Sohz0g)
+
 - [GCTT出品 | Go 中的 gRPC 简介](https://mp.weixin.qq.com/s/KRzfUqP_4kd7Uo-xAw29NA)
+
 - [colly简明教程及源码阅读与分析](https://jiajunhuang.com/articles/2019_08_31-go_colly.md.html?from=groupmessage)
+
 - ⭐[Go 面试每天一篇](https://mp.weixin.qq.com/s/rEXhrAqEOg9Ja4wYomOsGw)
+
 - [Go项目实战：用 Go 语言构建 SQL 解析器](https://mp.weixin.qq.com/s/ROo168oOSkZon_EE0kEbAw)
+
 - ⭐[万字长文带你深入浅出 Golang Runtime](https://mp.weixin.qq.com/s/gTb9p0WpJ37M5_k9e6xUiQ)
+
+- ⭐Go 开发的关键技术指南
+    - [第1篇](https://mp.weixin.qq.com/s/tXL_vXqIvHqafuwyGMofVw)
 
 
 
