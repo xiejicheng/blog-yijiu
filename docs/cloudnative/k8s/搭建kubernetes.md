@@ -354,6 +354,8 @@ $ kubeadm config images pull --config kubeadm-init.yaml
 $ kubeadm init --config kubeadm-init.yaml
 ```
 
+如果提示 `[ERROR NumCPU]: the number of available CPUs 1 is less than the required 2` 的话，需要再 `kubeadm init` 后加上参数：`--ignore-preflight-errors=NumCPU` 。
+
 初始化执行完成后，会输出以下内容：
 
 ```sh
