@@ -503,7 +503,7 @@ $ openssl pkcs12 -export -clcerts -inkey kubecfg.key -in kubecfg.crt -out kubecf
 `kubecfg.p12` 是需要导入客户端PC机器的证书，通过 `scp` 命令：
 
 ```sh
-$ scp root@{master节点的ip}:/root/.kube/kubecfg.p12
+$ scp root@{master节点的ip}:/root/.kube/kubecfg.p12 ./
 ```
 
 然后在PC端，安装 `kubecfg.p12` 文件。
