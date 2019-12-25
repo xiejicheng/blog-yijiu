@@ -46,6 +46,33 @@ void bubble_sort(int a[], int n)
 
 ### 快速排序
 
+快速排序（Quick Sort）
+
+```c
+void quick_sort(int a[], int l, int r)
+{
+    if(l < r)
+    {
+        int i, j, x;
+        
+        while(i < j)
+        {
+            while(i < j && a[j] > x)
+                j--;
+            if(i < j)
+                a[i++] = a[j];
+            while(i < j && a[i] < x)
+                i++;
+            if(i < j)
+                a[j--] = a[i];
+        }
+        a[i] = x;
+        quick_sort(a, l, i-1);
+        quick_sort(a, i+1, r);
+    }
+}
+```
+
 
 
 ### 直接插入排序
