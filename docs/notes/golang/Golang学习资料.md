@@ -50,10 +50,16 @@
 -   [浅谈 Go 语言实现原理](https://draveness.me/golang/)
 
 - [Go语言标准库](https://books.studygolang.com/The-Golang-Standard-Library-by-Example/)
+
 - 📙[Effective GO 中文版](https://www.kancloud.cn/kancloud/effective/72199)
+
 - 📙[Uber Go 语言编码规范](https://github.com/xxjwxc/uber_go_guide_cn)
+
 - 📌[Go 语言 Web 应用开发 - 无闻](https://studygolang.com/subject/479)
+
 - 📌[Go 系列教程](https://studygolang.com/subject/2)
+
+- 📙[Go语言四十二章经](https://github.com/ffhelicopter/Go42)
 
 
 
