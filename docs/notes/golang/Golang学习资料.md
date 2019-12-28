@@ -61,6 +61,10 @@
 
 - 📙[Go语言四十二章经](https://github.com/ffhelicopter/Go42)
 
+- 📗[Go 语言设计与实现](https://draveness.me/golang/)
+
+- 📗[高效的 Go 编程 - 官方《Effective Go》 中文版](https://learnku.com/docs/effective-go/2020)
+
 
 
 

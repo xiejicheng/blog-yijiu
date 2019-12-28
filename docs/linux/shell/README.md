@@ -1,4 +1,4 @@
-## Linux Shell 脚本修炼之路
+## Linux Shell 脚本
 
 
 
@@ -10,4 +10,9 @@
 - sed and awk 101 hacks
   - vim 101 hacks
   - [linux 101 hacks](https://wrfly.gitbooks.io/linux-101-hacks/content/)
+
+#### Shell 脚本编写思路：
+- 将不同功能模块划分，编写函数
+- 实现所定义的功能函数
+- 程序主流程的设计
 
