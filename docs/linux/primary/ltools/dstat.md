@@ -10,12 +10,16 @@ dstat 以列表形式提供数据信息以某种幅度和单位显示输出，ds
 
 dstat 支持实时显示统计信息，适用于分析排查故障，监控设备。它由 python 编写，具有扩展性。时间精度高，彩色界面显示。
 
-![dstat](C:\Users\10107\Desktop\博客文章\linux\工具篇\dstat.png)
+![dstat](https://yijiu-blog.oss-cn-hongkong.aliyuncs.com/images/linux/primary/ltools/dstat.png?x-oss-process=style/blog-image)
 
 **下载安装**
 
 ```sh
+# CentOS7
 $ yum install -y dstat
+
+#Ubuntu
+$ sudo apt-get install dstat
 ```
 
 
@@ -96,7 +100,7 @@ dstat 的强大也体现在**插件**使用上，扩展了许多功能。
 - `--top-mem` ：显示占用最多内存的进程。
 - `--top-oom` ：显示第一个被 OMM 结束的进程。
 
-dstat 还要支持监控 Mysql 的插件。
+dstat 还有支持监控 Mysql 的插件。
 
 
 
