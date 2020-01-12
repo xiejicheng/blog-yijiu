@@ -45,7 +45,7 @@ $ find /etc -name '*.conf'
 忽略大小写。
 
 ```bash
-$ fund ./ -iname 'abc'
+$ find ./ -iname 'abc'
 ./ABC
 ./ABc
 ./Abc
@@ -173,7 +173,7 @@ $ find . -type f -nouser
 $ find . -type f -nogroup
 ```
 
-**`-perm` **
+**`-perm`**
 
 根据文件权限查找。
 
