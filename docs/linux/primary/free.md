@@ -19,19 +19,19 @@
 free -m
 ```
 
-![1570284997252](C:\Users\10107\AppData\Roaming\Typora\typora-user-images\1570284997252.png)
+![1570284997252](https://yijiu-blog.oss-cn-hongkong.aliyuncs.com/images/linux/primary/free/free-m.png?x-oss-process=style/blog-image)
 
 ```bash
 free -h
 ```
 
-![1570285125144](C:\Users\10107\AppData\Roaming\Typora\typora-user-images\1570285125144.png)
+![1570285125144](https://yijiu-blog.oss-cn-hongkong.aliyuncs.com/images/linux/primary/free/free-h.png?x-oss-process=styimagele/blog-image)
 
 ```bash
 free -h -s 3 # 每隔3s输出一次内存使用情况
 ```
 
-![1570285217610](C:\Users\10107\AppData\Roaming\Typora\typora-user-images\1570285217610.png)
+![1570285217610](https://yijiu-blog.oss-cn-hongkong.aliyuncs.com/images/linux/primary/free/free-h-s-3.png?x-oss-process=style/blog-image)
 
 ### free 输出内容
 
