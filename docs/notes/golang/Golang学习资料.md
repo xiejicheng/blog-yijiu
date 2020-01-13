@@ -109,6 +109,8 @@
     - [第3篇](https://mp.weixin.qq.com/s/IUHmESSojeHl5I-o7d_hAw)
     - [第4篇](https://mp.weixin.qq.com/s/s4t2PD-3bRV92MpGqGfq9w)
 
+- [2019 年 Go 读者点击最多的十篇文章](https://mp.weixin.qq.com/s/GpHtJqygNNH3OJQVarJfjA)
+
 
 
 ### 优秀框架与工具
